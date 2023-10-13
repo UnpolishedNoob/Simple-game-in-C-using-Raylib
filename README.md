@@ -2,7 +2,8 @@
 
 The Project is about making a simple game. There will be some balls and a needle. The player has to move the needle to save the ball. If the ball falls on the needle the player will lose and the game will be over. Then the highest number will be shown and the name will be taken as input and saved in a file for future records.
 
-Key highlights:
+***Key highlights:***
+
 ➢ Graphics interface
 ➢ User input
 ➢ Score recording system
