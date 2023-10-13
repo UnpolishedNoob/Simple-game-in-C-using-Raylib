@@ -5,7 +5,9 @@ The Project is about making a simple game. There will be some balls and a needle
 ***Key highlights:***
 
 ➢ Graphics interface
+
 ➢ User input
+
 ➢ Score recording system
 
 
