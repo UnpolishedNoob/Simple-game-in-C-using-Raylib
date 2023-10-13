@@ -1,0 +1,42 @@
+      Name					   score
+
+    SPIDER MAN	                 570
+      IRON MAN	                 668
+          TABU	                 471
+          ARKA	                 645
+        NAYEEM	                1647
+        TRY100	                 646
+        PRANTA	                 463
+       ABHIJIT	                 469
+       TMITHUN	                 928
+          ARIF	                 569
+         TURJA	                 528
+          RIAN	                 571
+        PRITOM	                1555
+      HIJIBIJI	                 482
+        TRY200	                 145
+        TRY201	                 436
+        TRY202	                 206
+        TRY204	                 645
+       PBAKLAD	                 592
+        TRY250	                1212
+         RAHUL	                 593
+       FAILUER	                 177
+         FARID	                 812
+           JIM	                 459
+           DIP	                1366
+        FARHAN	                 810
+         ADIBA	                 591
+           TF	                1233
+        TRY251	                1522
+        TRY252	                1397
+        PRITOM	                 693
+       PRITOM2	                1867
+ PRITOM 2ND TRY	                2220
+         NAME1	                 748
+        NAYEEM	                 746
+          TYR2	                 672
+        TRY260	                1530
+       NAME261	                 928
+    PLAYER-1WT	                 145
+       TTRY281	                 592
